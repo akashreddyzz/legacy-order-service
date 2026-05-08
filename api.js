@@ -12,3 +12,5 @@ module.exports = {
     fetchOrders,
     fetchCustomer
 };
+
+// Hotfix: retry payment request on timeout
