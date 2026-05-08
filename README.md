@@ -10,3 +10,5 @@ This service handles customer order processing using legacy API v1 integrations.
 ## Deprecated APIs
 - /api/v1/orders
 - /api/v1/customers
+
+- Added API v2 orders migration preparation
