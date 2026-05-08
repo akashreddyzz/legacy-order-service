@@ -12,3 +12,5 @@ module.exports = {
 };
 
 // TODO: remove legacyApiV1 after v2 rollout
+
+// Patch: prevent stale customer cache reads
